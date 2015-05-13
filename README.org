@@ -1,0 +1,4 @@
+#+title: graph-pack
+#+author: ardumont
+
+graph pack configuration to ease graph creation.
