@@ -45,8 +45,7 @@
               (define-key graphviz-dot-mode-map (kbd "C-c G c") 'compile)
               (define-key graphviz-dot-mode-map (kbd "C-c G v") 'graphviz-dot-view)
               (define-key graphviz-dot-mode-map (kbd "C-c G C-c") 'comment-region)
-              (define-key graphviz-dot-mode-map (kbd "C-c G C-u") 'graphviz-dot-uncomment-region)))
-  )
+              (define-key graphviz-dot-mode-map (kbd "C-c G C-u") 'graphviz-dot-uncomment-region))))
 
 (provide 'graph-pack)
 ;;; graph-pack.el ends here
